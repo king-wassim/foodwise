@@ -1,0 +1,5 @@
+{
+  "name": "FoodWise",
+  "description": "AI-powered nutrition and allergen detection app. Analyze meals, labels, and voice logs for calories, nutritional breakdown, and dietary suitability.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
